@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "File Mailer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mgrdinic\\Desktop\\EmailMe"
+    }
+  }
+}

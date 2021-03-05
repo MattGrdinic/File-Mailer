@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Mailer", "File Mailer\File Mailer.csproj", "{EB5B2F33-7237-4F65-86B8-1D7623AE6A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5B2F33-7237-4F65-86B8-1D7623AE6A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5B2F33-7237-4F65-86B8-1D7623AE6A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5B2F33-7237-4F65-86B8-1D7623AE6A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5B2F33-7237-4F65-86B8-1D7623AE6A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC17639-929D-43D7-AD06-97025AF9D7F0}
+	EndGlobalSection
+EndGlobal
