@@ -12,7 +12,7 @@ namespace File_Mailer
         {
             if (args.Length != 2)
             {
-                Console.WriteLine("Usage: .exe \"Folder Location\", Email Adress");
+                Console.WriteLine("Usage: \"Folder Location\" Email Address");
                 
                 Environment.Exit(0);
             }
@@ -20,7 +20,7 @@ namespace File_Mailer
 
             if (!Directory.Exists(args[0]))
             {
-                Console.WriteLine("Must Supply A Valid Directory");
+                Console.WriteLine("Must Supply A Valid Directory.");
 
                 Environment.Exit(0);
             }
