@@ -35,7 +35,7 @@ namespace File_Mailer
                 mm.Body = "See Attachments";
                 mm.IsBodyHtml = false;
                 SmtpClient smtp = new SmtpClient();
-                smtp.Host = "ob1.hc4604-54.iphmx.com";
+                smtp.Host = "YOUR EMAIL HOST NAME";
                 smtp.EnableSsl = true;
 
                 foreach (var f in files)
